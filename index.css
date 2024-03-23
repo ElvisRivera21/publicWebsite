@@ -1,0 +1,35 @@
+img {
+  border-radius: 50px;
+  height: 350px;
+  width: 350px;
+  display: block;
+  margin: 35px auto 75px auto;
+}
+
+h2,h1,p {
+  font-size: 18px;
+  display: block;
+  margin: 30px auto 50px auto;
+  text-align: center;
+  
+}
+
+body {
+background-color: rgb(63, 43, 189);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: aliceblue;
+display: block;
+  margin: auto;
+}
+
+a {
+  background-color: white;
+  font-size: 35px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-radius: 10px;
+  padding: 10px;
+  display: block;
+  margin: 50px auto 20px auto;
+  text-align: center;
+}
+
