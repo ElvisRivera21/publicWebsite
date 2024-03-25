@@ -4,6 +4,7 @@ img {
   width: 350px;
   display: block;
   margin: 35px auto 75px auto;
+  border: solid 5px;
 }
 
 h2,h1,p {
